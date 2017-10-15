@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <link rel="stylesheet" href="todoStyle.css">
+    </head>
+    
+    <body>
+        <h1>CredCoder's Todos</h1>
+        <div>
+            <button onclick="handlers.toggleAll()">Toggle All</button>
+        </div>
+            
+        <div>        
+            <button id="addTodoBtn" onclick="handlers.addTodo()">Add a Todo</button>
+            <input  type="text" 
+                    name="addTodo"
+                    placeholder="Enter Todo Text"/>
+        </div>
+
+        <div>        
+            <button onclick="handlers.changeTodo()">Change Todo</button>
+            <input  type="text" 
+                    name="changeText" 
+                    placeholder="Enter Change Text"/>            
+        </div>
+        <ul>
+            <span></span>
+        </ul>
+      
+        <script type="text/javascript" src="todoListV1.js"></script>
+    </body>
+
+</html>

@@ -1,0 +1,12 @@
+body{
+    font-family: "Monaco";
+}
+input{
+    width: 175px;
+}
+ul {
+  list-style-type: none;
+}
+#addTodoBtn{
+    margin-right: 9px;
+}
