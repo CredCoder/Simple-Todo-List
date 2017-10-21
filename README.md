@@ -1,4 +1,4 @@
-# Simple Todo List
+## Todo List
 
 As I develop as a Web Developer, it has become apparent that like JavaScript, HTML, and CSS, understanding and using GitHub is also essential. Therefore, I plan to start populating GitHub beginning with this project. It is recommended that I add this README markdown file and include the hidden .gitignore file for housing untracked files. There doesn't seem to be any need for a License file for this kind of project.
                                                                                  
